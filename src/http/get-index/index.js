@@ -2,7 +2,7 @@ let arc = require('@architect/functions')
 
 /**
  * arc.proxy.public
- *
+ * hmm
  * - a lambda function helper that serves files in /public
  * - very configurable! documented here: https://arc.codes/guides/spa
  */
